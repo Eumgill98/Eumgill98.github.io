@@ -13,8 +13,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Dobby # author name
   bio: >- # tell to the world
-  안녕하세요!! 세상의 문제를 ML/DL로 해방시키는 것이 목표인 개발자 Dobby입니다!!
-  Github - <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/>
+    안녕하세요!! 세상의 문제를 ML/DL로 해방시키는 것이 목표인 개발자 Dobby입니다!!
+    Github - <img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/>
   username: Dobby98 # general username
   github: Eumgill98 # github username
   twitter: twitter_username # twitter username
