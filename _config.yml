@@ -2,7 +2,7 @@
 title: Dobby Blog
 description: >- # site description
   안녕하세요!! 세상의 문제를 ML/DL로 해방시키는 것이 목표인 개발자 Dobby입니다!!<br>
-  Github - <a href = 'https://github.com/Eumgill98'><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>
+  <a href = 'https://github.com/Eumgill98'><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>
 lang: ko_KR
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -14,7 +14,7 @@ author:
   name: Dobby # author name
   bio: >- # tell to the world
     안녕하세요!! 세상의 문제를 ML/DL로 해방시키는 것이 목표인 개발자 Dobby입니다!!<br>
-    Github - <a href = 'https://github.com/Eumgill98'><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>
+    <a href = 'https://github.com/Eumgill98'><img src="https://img.shields.io/badge/Github-black?style=flat-square&logo=Github&logoColor=white"/></a>
   username: Dobby98 # general username
   github: Eumgill98 # github username
   twitter: Dobby98_ # twitter username
